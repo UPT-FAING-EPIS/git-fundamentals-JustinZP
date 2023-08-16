@@ -2,6 +2,7 @@
 | Nombre   | Apellido | Código   |
 |----------|----------|----------|
 | Justin  | Zevallos | 2020066924 |
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
