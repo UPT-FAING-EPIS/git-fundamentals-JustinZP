@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/gw2ICP1b)
-| Nombre   | Apellido | Código   |
-|----------|----------|----------|
-| Justin  | Zevallos | 2020066924 |
+| Nombre   | Apellido | Código   |Correo   |
+|----------|----------|----------|----------|
+| Justin  | Zevallos | 2020066924 | jz2020066924@virtual.upt.pe|
 
 # :wave: The Basics of GitHub 
 
